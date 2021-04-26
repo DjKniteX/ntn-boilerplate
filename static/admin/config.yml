@@ -49,8 +49,8 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
   - name: 'projects'
-    label: 'Tournaments'
-    label_singular: 'Tournaments'
+    label: 'Projects'
+    label_singular: 'Project'
     folder: 'content/projects'
     create: true
     format: 'frontmatter'
