@@ -49,7 +49,7 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
   - name: 'projects'
-    label: 'Projects'
+    label: 'Tournaments'
     label_singular: 'Project'
     folder: 'content/projects'
     create: true
