@@ -1,7 +1,7 @@
 ---
-category: animals
-title: Placeholder Kittens
-description: Used when it is necessary to take up space, to let viewers understand that they should provide their own content
+category: open
+title: Placeholder Tournaments
+description: Open playerholder tournament
 cover: https://placekitten.com/400/200
 gallery: ['https://placekitten.com/g/800/400', 'https://placekitten.com/600/600']
 ---
