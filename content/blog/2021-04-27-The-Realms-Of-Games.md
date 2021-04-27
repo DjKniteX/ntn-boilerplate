@@ -9,7 +9,7 @@ What do you guys know about deck-building games? You know the ones where you bui
 
 There are some mechnical differnces between games like these but we can save that for another post. In this post, I would like to introduce two games that we love to add to our roster of games that we would like to play competitively as well as amateur tournaments to host/sponsor.
 
-Both of these games fall under the deck-building genre where you start off with a small amount of cards and then build your deck as each turn goes. Think of it like Chess. The board has open information, everybody knows where the starting positions are (starting hands in this case) and then anything you buy/play after that is up to you. You can pysch your opponents or make some crazy plays pickng up a card you have no intentions of using just to psych them out.
+Star realms and Hero Realms (Wize Wizard Games) fall under the deck-building genre where you start off with a small amount of cards and then build your deck as each turn goes. Think of it like Chess. The board has open information, everybody knows where the starting positions are (starting hands in this case) and then anything you buy/play after that is up to you. You can pysch your opponents or make some crazy plays pickng up a card you have no intentions of using just to psych them out.
 
 <img src="https://www.herorealms.com/wp-content/uploads/2016/11/HeroRealmsLogo-e1478268501548.png" style="width:300px"></img>
 
@@ -42,5 +42,6 @@ links:
 - https://reddit.com/r/starrealms
 - https://jestatharogue.com
 - https://samhreviews.com
+- https://www.wisewizardgames.com/
 
 Written by DJKNITEX // April 27, 2021
