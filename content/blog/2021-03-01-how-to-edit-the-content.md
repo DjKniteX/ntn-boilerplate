@@ -1,6 +1,6 @@
 ---
-title: Our soon to be blog/tournament site
-description: And what to expect... Powered by Nuxt JS
+title: The Realms of Games
+description: To be a Hero or to be in the Stars?
 ---
 
 We are still in the midst of building our blog site dedicated to card games which may or may not be also a blog for all things general but for now we are keeping the site as is.
