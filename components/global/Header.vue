@@ -8,6 +8,9 @@
         <nuxt-link class="btn block" to="/blog">Blog</nuxt-link>
       </li>
       <li class="flex-1 ml-2">
+        <nuxt-link class="btn block" to="/roster">Roster</nuxt-link>
+      </li>
+      <li class="flex-1 ml-2">
         <nuxt-link class="btn block" to="/projects">Tournaments</nuxt-link>
       </li>
     </ul>
@@ -55,11 +58,19 @@ export default {
 
 /* Need two because of smoother switching between color modes */
 @keyframes fadeIn1 {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 @keyframes fadeIn2 {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 </style>
