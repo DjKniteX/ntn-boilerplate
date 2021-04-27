@@ -1,7 +1,7 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "tSn.TCG",
   "version": "2.0.1",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
+  "description": "Arkansas Card Game Team and Blog",
   "author": "Sven Parker <sven@svenparker.com> (https://svenparker.com)",
   "scripts": {
     "dev": "nuxt",
