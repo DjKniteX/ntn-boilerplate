@@ -11,13 +11,13 @@ In most variations of Mahjong, I'll try to explain the gameplay in a very simple
 
 Similar to Poker, each winning hand (or possible winning hands) has their own ranking. You can one with a one color/tile straight (making a 1-9 straight using the same suit) or winning the game with nothing but Trips using the same number (Trip 7s in all suits). Mahjong is played very quickly and here at Team SKYNITE we play almost every night losing every chance we can get.
 
-<img src="https://i.imgur.com/pt5SiUu.png" style="width:300px"></img>
+<img src="https://i.imgur.com/pt5SiUu.png" ></img>
 
 We normally play on Mahjong Souls and Mahjong Time. Both are great ways to play online and friends. But Mahjong Souls is only the Richii ruleset where Mahjong Time includes a variety of rulesets. Regardless, Mahjong is a nice way to unwind towards the end of the day but it can get competitive as there are major tournaments especially in the East.
 
 As a gambling game you won't see this in the casinos (Maybe in Asia) but you will see a group of players playing at a park, mahjong parlors, or even on the street as this game can be quickly set up and can start playing right away.
 
-<img src="https://i.imgur.com/HEE4J3m.png" style="width:300px"></img>
+<img src="https://i.imgur.com/HEE4J3m.png"></img>
 
 Check out the links below for more information about Mahjong and how to get started. Feel free to join our discord and come hop on a match with us!
 

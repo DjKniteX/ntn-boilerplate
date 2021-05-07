@@ -1,7 +1,7 @@
 <template>
   <main>
     <section class="self-center flex flex-col flex-1 items-center justify-center">
-      <h1 class="title text-center">Competitive - Poker - Card Games</h1>
+      <h1 class="title text-center">Welcome to our blog of competitive card games.</h1>
       <h2 class="subtitle text-center">For players by players</h2>
       <h3 class="subtitle text-center"><a href="https://teamskynite.net">Team SKYNITE</a></h3>
     </section>
